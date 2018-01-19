@@ -5,7 +5,7 @@ This Github repo is the centralized location for organizing and producing materi
 
 ## To Learn More
 
-1. [Program Description and Timeline](https://docs.google.com/document/d/1yZigtjOY-5iQ6FPzHQhcftKnOCpYMlonJaBhuF-wwNk/edit?usp=sharing)
+1. [Program Description and Outline](https://docs.google.com/document/d/1yZigtjOY-5iQ6FPzHQhcftKnOCpYMlonJaBhuF-wwNk/edit?usp=sharing)
 2. [Previous Reproducibility Working Group Agenda Notes](https://docs.google.com/document/d/1zu7-O9NE6AxFhC7L6cWTk8KUDmzivQL25QTnltt8jmc/edit?usp=sharing)
 
 ## Contribute
